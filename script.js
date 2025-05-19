@@ -227,7 +227,7 @@ const Projects = props => {
     React.createElement("div", { className: "projects-wrapper" }, /*#__PURE__*/
     React.createElement(Project, {
       title: "Let it Go",
-      img: 'colourchanger.gif',
+      img: 'code.jpg',
       tech: "js css html",
       link: "https://annesannella1.github.io/colourchanger/",
       repo: "https://annesannella1.github.io/colourchanger/" }, /*#__PURE__*/
@@ -241,7 +241,7 @@ const Projects = props => {
 
     React.createElement(Project, {
       title: "Pearls of Wisdom.",
-      img: 'CautiousMemory.gif',
+      img: 'code.jpg',
       tech: "js html css",
       link: "https://annesannella1.github.io/cautious-memory/",
       repo: "https://annesannella1.github.io/cautious-memory/" }, /*#__PURE__*/
@@ -254,7 +254,7 @@ const Projects = props => {
 
    React.createElement(Project, {
       title: "Kaleidoscope",
-      img: 'Kaleidoscope.gif',
+      img: 'code.jpg',
       tech: "html css",
       link: "https://annesannella1.github.io/Kaleidoscope/",
       repo: "https://annesannella1.github.io/Kaleidoscope/" }, /*#__PURE__*/
@@ -266,7 +266,7 @@ const Projects = props => {
   React.createElement("p", null, "A single page site using only CSS and the html canvas element to generate art.")), /*__PURE__*/ 
  React.createElement(Project, {
       title: "Rainbow Lightning Effect?",
-      img: 'pinklightningeffect.gif',
+      img: 'code.jpg',
       tech: "js html css",
       link: "https://annesannella1.github.io/rainbowlightningeffect/",
       repo: "https://annesannella1.github.io/rainbowlightningeffect/" }, /*#__PURE__*/
@@ -279,7 +279,7 @@ const Projects = props => {
 
     React.createElement(Project, {
       title: "Techdegree Porfolio.",
-      img: 'techdegreeunit1snapshot.gif',
+      img: 'code.jpg',
       tech: "js html css",
       link: "https://annesannella1.github.io/techdegree-unit1/",
       repo: "https://annesannella1.github.io/techdegree-unit1/" }, /*#__PURE__*/
@@ -293,7 +293,7 @@ const Projects = props => {
 
     React.createElement(Project, {
       title: "Hair Factory Demo.",
-      img: 'hairfactory.png',
+      img: 'code.jpg',
       tech: "html css",
       link: "https://annesannella1.github.io/creativeportfolio2023/",
       repo: "https://annesannella1.github.io/creativeportfolio2023/" }, /*#__PURE__*/
@@ -306,7 +306,7 @@ const Projects = props => {
 
       React.createElement(Project, {
       title: "Grocery Gal.",
-      img: 'Grocerygal.jpeg',
+      img: 'code.jpg',
       tech: "html css",
       link: "https://annesannella1.github.io/GroceryGal/",
       repo: "https://annesannella1.github.io/GroceryGal/" }, /*#__PURE__*/
@@ -321,7 +321,7 @@ const Projects = props => {
 
  React.createElement(Project, {
       title: "Adobe Graphics Portfolio",
-      img: 'GraphicsKrop.png',
+      img: 'code.jpg',
       tech: "js html css",
       link: "https://www.krop.com/annesannella/#/",
       repo: "https://www.krop.com/annesannella/#/" }, /*#__PURE__*/
